@@ -2,7 +2,8 @@
   <img src="shutterstock_1073953772-860x9999.jpg" alt="Banner del Proyecto" width="100%">
 </div>
 
-# Proyecto de Ciencia de Datos: **Film Junky Union: Clasificación de Sentimiento** 🎬
+# Proyecto de Ciencia de Datos: [**Film Junky Union: Clasificación de Sentimiento**](https://github.com/tu_usuario/Film_Junky_Union_clasificacion_de_sentimiento.ipynb) 🎬
+
 
 ## Descripción
 En este proyecto, desarrollamos un sistema para filtrar y categorizar reseñas de películas mediante técnicas de procesamiento de lenguaje natural (NLP). El objetivo principal fue clasificar automáticamente las reseñas de películas en diferentes categorías, como "Positiva", "Negativa" o "Neutral". Utilizamos un conjunto de datos de reseñas de películas y entrenamos un modelo de clasificación para predecir el sentimiento de cada reseña.
