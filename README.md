@@ -1,47 +1,34 @@
 <div align="center">
-  <img src="film-junky-banner.jpg" alt="Banner de Film Junky Union" width="100%">
+  <img src="shutterstock_1073953772-860x9999.jpg" alt="Banner del Proyecto" width="100%">
 </div>
 
-# Proyecto: Análisis de Sentimiento | Film Junky Union 🎬
+# Proyecto de Ciencia de Datos: **Film Junky Union: Clasificación de Sentimiento** 🎬
 
-Este proyecto se enfoca en la clasificación de reseñas de películas, determinando si son positivas o negativas. Utilizando procesamiento de lenguaje natural, ayudamos a mejorar la experiencia del usuario y facilitar recomendaciones personalizadas dentro de la plataforma.
+## Descripción
+En este proyecto, desarrollamos un sistema para filtrar y categorizar reseñas de películas mediante técnicas de procesamiento de lenguaje natural (NLP). El objetivo principal fue clasificar automáticamente las reseñas de películas en diferentes categorías, como "Positiva", "Negativa" o "Neutral". Utilizamos un conjunto de datos de reseñas de películas y entrenamos un modelo de clasificación para predecir el sentimiento de cada reseña.
 
-## 💻 Tecnologías Utilizadas:
+## Tecnologías Utilizadas
 - **Python**
-- **NLTK**
-- **TF-IDF**
+- **Pandas**
 - **Scikit-learn**
+- **NLP (Natural Language Processing)**
 
----
+## Análisis Visual de Datos
+A continuación, se presentan algunas visualizaciones importantes del análisis de los datos:
 
-## 📂 Accede al Proyecto:
-- [Film Junky Union: Clasificación de Sentimiento](./Film_Junky_Union_clasificacion_de_sentimiento.ipynb)
+1. **Distribución de Sentimientos en el Conjunto de Datos**
+   - Esta visualización muestra cómo se distribuyen las reseñas entre las categorías de sentimiento. Nos ayuda a entender si hay un desbalance entre las clases, lo cual es importante para elegir el modelo y técnicas de balanceo adecuadas.
 
----
+   ![Distribución de Sentimientos](path_to_image/distribucion_sentimientos.png)
+   
+2. **Palabras Más Comunes en Reseñas Positivas y Negativas**
+   - Un gráfico de nubes de palabras que muestra las palabras más frecuentes en reseñas positivas y negativas. Este análisis visual puede ayudarnos a identificar qué términos son indicativos de un sentimiento positivo o negativo.
 
-<div align="center">
-  <img src="venn_diagram.png" alt="Diagrama de Venn" width="80%">
-</div>
+   ![Nube de Palabras](path_to_image/nube_palabras.png)
 
----
+## Conclusiones
+Este proyecto proporcionó una visión profunda sobre cómo las reseñas de películas pueden clasificarse según su sentimiento. Se emplearon varias técnicas de procesamiento de lenguaje natural y machine learning para crear un modelo que automatiza la clasificación de las reseñas con una alta precisión. 
 
-## 🛠️ Herramientas y Tecnologías Comunes:
-- **Lenguajes:**
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
+## Próximos Pasos
+En el futuro, se podrían explorar métodos más avanzados de NLP, como el uso de modelos de deep learning (Redes Neuronales), para mejorar la precisión de la clasificación y la comprensión semántica de las reseñas.
 
-- **Librerías:**
-  - ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  - ![NLTK](https://img.shields.io/badge/NTLK-22B7F1?style=for-the-badge&logo=nltk&logoColor=white)
-
-- **Herramientas:**
-  - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  - ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## 📬 Contacto:
-Si tienes alguna pregunta o comentario sobre este proyecto, ¡no dudes en contactarme!
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranojefferson687@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-serrano-mendez/)
