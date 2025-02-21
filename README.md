@@ -2,7 +2,7 @@
   <img src="shutterstock_1073953772-860x9999.jpg" alt="Banner del Proyecto" width="100%">
 </div>
 
-# Proyecto de Ciencia de Datos: [**Film Junky Union: Clasificación de Sentimiento**](https://github.com/jserranom27/Film_Junky_Union_clasificacion_de_sentimiento.ipynb) 🎬
+# Proyecto de Ciencia de Datos: [**Film Junky Union: clasificación de sentimiento**](https://github.com/jserranom27/Film_Junky_Union_clasificacion_de_sentimiento.ipynb) 🎬
 
 
 ## Descripción
